@@ -29,6 +29,6 @@ This project was built to practice:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/vacation-packing-list.git
+   git clone https://github.com/Lokacitron123/far-away-packing-list.git
    cd vacation-packing-list
    ```
