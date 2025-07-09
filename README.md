@@ -24,7 +24,6 @@ This project was built to practice:
 - Managing local and global component state with `useState`
 - Updating arrays and objects in React state
 - Conditional rendering and list logic using React
-- Structuring a simple but functional app with reusable components
 
 ## 🚀 Getting Started
 
